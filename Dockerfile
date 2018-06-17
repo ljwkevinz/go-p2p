@@ -1,1 +1,1 @@
-FROM gcr.io/google_containers/kube-cross:v1.9.3-1
+FROM gcr.io/google-containers/debian-iptables-amd64:v10
