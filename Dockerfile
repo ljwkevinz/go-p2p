@@ -1,1 +1,1 @@
-FROM gcr.io/google-containers/debian-iptables-amd64:v10
+FROM gcr.io/google_containers/etcd-amd64:v3.0.0
